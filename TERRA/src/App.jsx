@@ -69,7 +69,7 @@ export default function App() {
               obcaecati commodi. Ullam unde, optio ipsa iure reiciendis dolorum
               id cupiditate velit! Lorem ipsum dolor sit amet consectetur,
               adipisicing elit. Accusamus quos quo iste magnam consectetur quod
-              explicabo deserunt. Ullam sint, a pariatur nulla dicta unde at
+              explicabo deserunt. Ullam sint, a pariahtur nulla dicta unde at
               quis ipsum dolor aperiam! Laboriosam.
             </p>
           </div>
